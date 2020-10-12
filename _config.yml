@@ -13,3 +13,5 @@
 
 plugins:
   - jekyll-seo-tag
+
+remote_theme: thenishkarshagarwal/jekyll-theme-console
