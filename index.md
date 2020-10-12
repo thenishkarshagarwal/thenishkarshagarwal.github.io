@@ -1,5 +1,5 @@
 ---
-title: Nishkarsh
+title: /
 layout: home
 permalink: /
 ---
