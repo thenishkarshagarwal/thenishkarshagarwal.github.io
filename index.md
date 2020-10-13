@@ -4,9 +4,9 @@ layout: home
 permalink: /
 ---
 
-# Welcome [anonymous visitor]!
+<h1>Welcome [anonymous visitor]!</h1>
 <br>
-root@kali:~$ **whoami**
+<span style="color: red;">root@kali:~$</span> **whoami**
 <br>
 I'm **Nishkarsh Agarwal** *{you already know that till now}*,
 who aims to grow everyday {just like a <s>plant</s> human}

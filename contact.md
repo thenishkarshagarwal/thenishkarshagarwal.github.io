@@ -1,7 +1,7 @@
 ---
-title: /blog
+title: /contact
 layout: page
-permalink: /blog/
+permalink: /contact
 ---
 
 # PAGE IN DEVELOPMENT

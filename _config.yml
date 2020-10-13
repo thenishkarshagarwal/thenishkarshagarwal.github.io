@@ -4,9 +4,11 @@
 
 header_pages:
   - index.md
-  - about.md
   - blog.md
-footer: 'follow us on <a href="https://twitter.com/thenishagarwal/">twitter</a>'
+  - contact.md
+  - about.md
+
+footer: 'follow us on <a href="https://twitter.com/thenishagarwal/">twitter</a>
 
 style: hacker
 listen_for_clients_preferred_style: false
