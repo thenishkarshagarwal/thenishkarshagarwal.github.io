@@ -7,10 +7,9 @@ permalink: /
 <h1>Welcome [anonymous visitor]!</h1>
 <br>
 <span style="color: red;">root@kali:~$</span> **whoami**
-<br>
-I'm **Nishkarsh Agarwal** *{you already know that till now}*,
-who aims to grow everyday {just like a <s>plant</s> human}
+I'm just a normal kid who got big aims and high expectations with his life, and is trying hard to fulfill them.
 <br>
 all this sh*t ends here.
 <br>
+alright, I'm **Nishkarsh Agarwal**, 
 # [PAGE IN DELEOPMENT]
