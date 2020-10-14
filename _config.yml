@@ -16,5 +16,3 @@ listen_for_clients_preferred_style: false
 
 plugins:
   - jekyll-seo-tag
-
-remote_theme: b2a3e8/jekyll-theme-console
