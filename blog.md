@@ -1,7 +1,8 @@
 ---
 title: /blog
-layout: page
+layout: home
 permalink: /blog/
 ---
-
-# PAGE IN DEVELOPMENT
+# apologies pal.
+no blogs right at the moment :[
+please check back again, later. 
