@@ -5,10 +5,10 @@
 header_pages:
   - index.md
   - blog.md
-  - contact.md
   - about.md
+  - contact.md
 
-footer: follow us on <a href="https://twitter.com/thenishagarwal/">twitter</a>
+footer: follow me on <a href="https://twitter.com/thenishagarwal/">twitter</a>
 
 style: hacker
 

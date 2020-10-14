@@ -6,10 +6,8 @@ permalink: /
 
 <h1>Welcome [anonymous visitor]!</h1>
 <br>
-<span style="color: red;">root@kali:~$</span> **whoami**
-I'm just a normal kid who got big aims and high expectations with his life, and is trying hard to fulfill them.
+# <span style="color: red;">root@kali:~$</span> whoami
+I'm just a normal peep who got big aims and high expectations with his life, and is trying hard to fulfill them, also trying to learn something new each day, in order to become a better self.
 all this sh*t ends here.
-alright, I'm **Nishkarsh Agarwal**, who's trying to learn something new each day, and to become a better himself.
+alright, I'm **Nishkarsh Agarwal**, a kiddo of 15 *{peeps call me that!}*, who **hacks**!
 <br>
-
-# [PAGE IN DELEOPMENT]
