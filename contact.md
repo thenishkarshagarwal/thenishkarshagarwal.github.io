@@ -4,5 +4,7 @@ layout: page
 permalink: /contact
 ---
 
-# [PAGE IN DEVELOPMENT]
-yea yea, this text will be deleted/removed soon.
+# <span style="color: red;">root@kali:~$</span> cat contact.me
+
+**mail**: nishkarshagarwal2005@gmail.com  
+[i know i need a professional email]
