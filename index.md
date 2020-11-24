@@ -12,5 +12,4 @@ I'm just a normal peep who got big aims and high expectations with his life, and
 all this sh*t ends here.
 <span style="color: black;">.</span>
 alright, I'm **Nishkarsh Agarwal**,
-a self-taught kiddo of 15 _{peeps call me that!}_, who **hacks**!
-  
+just another humble InfoSec enthusiast trying to break into the security field.
